@@ -1,0 +1,3 @@
+D:/The Folder/projects/School/programming/technion/HW4/cmake-build-debug/CMakeFiles/HW4.dir
+D:/The Folder/projects/School/programming/technion/HW4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/The Folder/projects/School/programming/technion/HW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
